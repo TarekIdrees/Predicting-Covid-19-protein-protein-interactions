@@ -6,7 +6,7 @@
 >  In phase 1 
 * we mapped the data using protein analysis package called (BioPython)  , and the data normalized using z-score ,then the data is classified it with random forest which gave us 99.33% accuracy ,98.2% with SVM classifier  and 87.8% with Logistic Regression classifier . 
 > In phase 2 
-* we mapped data using AVL tree we managed to apply non physiochemical feature extraction (AVL) , protein sequence represented as a numeric representation according to each amino acid depth in AVL , then these sequence classified by RNN (BiRNN) and get 99.58% accuracy which is a great for algorithm-based mapping method.
+* we mapped data using AVL tree we managed to apply non physiochemical feature extraction (AVL) , protein sequence represented as a numeric representation according to each amino acid depth in AVL , then these sequence classified by RNN  (BiRNN) and get 99.58% accuracy which is a great for algorithm-based mapping method.
 * Compared to experimental methods, computational methods are time efficient and can analyze the protein interactions with less equipment. Furthermore, with the recent development of technology, protein sequence information can be obtained easily
 * Link of our Website
 >https://bio-stock.000webhostapp.com/index.php
